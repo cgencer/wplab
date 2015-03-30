@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/option-tree"]
+	path = wp-content/plugins/option-tree
+	url = https://github.com/valendesigns/option-tree.git
